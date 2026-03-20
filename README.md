@@ -27,9 +27,9 @@
 ## 🗂️ `cat index.txt`
 
 ### 🌐 Redes y Protocolos
-| # | Concepto | Categoría | Fecha | Nota |
+| # | Concepto | Categoría | Nota |
 |---|----------|-----------|-------|------|
-|01 LFI — Local File Inclusion | Web |20/3/26|[📄](./web/lfi-local-file-inclusion.md) |
+|01 LFI — Local File Inclusion | Web |[📄](./web/lfi-local-file-inclusion.md) |
 
 ### 🐧 Linux y Sistemas
 | # | Concepto | Categoría | Fecha | Nota |
