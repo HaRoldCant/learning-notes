@@ -29,7 +29,7 @@
 ### 🌐 Redes y Protocolos
 | # | Concepto | Categoría | Fecha | Nota |
 |---|----------|-----------|-------|------|
-| 01 | pendiente | - | - | 📝 |
+|01LFI — Local File Inclusion | Web | [📄](./web/lfi-local-file-inclusion.md) |
 
 ### 🐧 Linux y Sistemas
 | # | Concepto | Categoría | Fecha | Nota |
