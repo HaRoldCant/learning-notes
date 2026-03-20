@@ -29,7 +29,7 @@
 ### 🌐 Redes y Protocolos
 | # | Concepto | Categoría | Fecha | Nota |
 |---|----------|-----------|-------|------|
-| 01 | LFI — Local File Inclusion | Hacking | 20/03/2026 | [📝](./web/lfi-local-file-inclusion.md) |
+| 01 | LFI — Local File Inclusion | Web | 20/03/2026 | [📝](./web/lfi-local-file-inclusion.md) |
 
 ### 🐧 Linux y Sistemas
 | # | Concepto | Categoría | Fecha | Nota |
